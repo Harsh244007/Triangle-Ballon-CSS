@@ -1,3 +1,3 @@
 # Triangle-Ballon-CSS
 
-![image](https://github.com/Harsh244007/Triangle-Ballon-CSS/assets/97446580/12a340c1-dd9e-4379-b46b-0953654fde78)
+![image](https://github.com/Harsh244007/Triangle-Ballon-CSS/assets/97446580/4c499db1-4faf-4444-8af5-f2d9cb8c8d8a)
