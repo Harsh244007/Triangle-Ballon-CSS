@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f9aa4c;
+  }
+
+  .circle-container {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap:83px;
+    flex-direction: column;
+  }
+
+  .circle {
+    width: 150px;
+    height: 150px;
+    background-color: #264443;
+ border-radius: 0 50% 50% 50%;
+    margin: 10px;
+   
+  }
+  .circle1{
+    transform: rotate(220deg);
+  }
+  .circle2{
+    position: absolute;
+  left: -140px;
+    transform: rotate(140deg);
+  }
+  .circle3{
+    
+    transform: rotate(45deg);
+  }
+</style>
+<title>Centered Circles</title>
+</head>
+<body>
+<div class="circle-container">
+  <div class="circle circle1">
+  </div>
+  <div class="circle circle2"></div>
+  <div class="circle circle3"></div>
+</div>
+</body>
+</html>
